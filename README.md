@@ -26,7 +26,7 @@
 
 ## 四、实验过程
 
-1、在https://iot.dfrobot.com.cn/上注册账号并登录，然后点击添加两个新设备
+1、在https://iot.dfrobot.com.cn/ 上注册账号并登录，然后点击添加两个新设备
 
 ![image-20210407112828540](C:\Users\梁庭锋\AppData\Roaming\Typora\typora-user-images\image-20210407112828540.png)
 
