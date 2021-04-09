@@ -59,7 +59,7 @@ void obloqMqttEventT0(String& message) {
 	rgb.write(-1, 0xFF0000);
 }
 void obloqMqttEventT1(String& message) {
-	display.setCursorLi![image-20210407173234026](C:\Users\梁庭锋\AppData\Roaming\Typora\typora-user-images\image-20210407173234026.png)ne(4);
+	display.setCursorLine(4);
 	display.printLine(message);
 	rgb.write(-1, 0x0000FF);
 }
